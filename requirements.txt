@@ -1,0 +1,7 @@
+simpy
+matplotlib
+seaborn
+numpy
+dash
+dash-bootstrap-components
+pandas
